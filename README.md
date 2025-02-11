@@ -1,4 +1,4 @@
-# Data Scientist
+# Workforce Specialist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
