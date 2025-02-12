@@ -8,7 +8,8 @@
   
 ## Work Experience
 
-**Workforce Specialist at Offshore Business Processing "OBP" Comp.
+**Workforce Specialist
+at Offshore Business Processing "OBP" Comp.
 (_April 2024 - Present 2025_)**
 - Monitoring & Compliance – Track and ensure compliance with company policies, labor laws, and HR guidelines related to work violations.
 - Case Management – Investigate, document, and process HR-related violations, including attendance infractions, policy breaches, and misconduct cases.
@@ -17,7 +18,7 @@
 - Employee Support & Guidance – Provide employees with guidance on company policies, issue notices, and assist in resolution processes.
 - This role requires strong analytical skills, attention to detail, and a firm yet fair approach to handling workforce-related compliance matters.
 
-** THE PROBE CX Real Time Analyst 
+**THE PROBE CX Real Time Analyst 
 (_April 2018 - Oct 2022_)**
 - Identify call volume trends and average results on on a monthly and quarterly/seasonal basis
 - Analyze and manage site's volume to ensure service level are met
