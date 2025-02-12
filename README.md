@@ -2,15 +2,20 @@
 
 #### Technical Skills: Microsoft Excel, Power BI,
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	        		
+- B.S., Food Tech | Euligio Amang Rodriguez Institute of Science and Technology (_May 2015_)
+- Secondary.,| Esteban Abada High School (_June 2010_)
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Real Time Analyst (_April 2018 - Oct 2022_)**
+- Identify call volume trends and average results on on a monthly and quarterly/seasonal basis
+- Analyze and manage site's volume to ensure service level are met
+- Efficiently identifying volume patterns to optimize site's schedule adherence
+- Collaborate with Supervisors to manage attendance and behavioral matters
+- Create daily/weekly/monthly reports and undertake intraday reporting & other PBI operations for data analysis and reporting
+
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
