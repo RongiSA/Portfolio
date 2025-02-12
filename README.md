@@ -1,6 +1,6 @@
 # Workforce Specialist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Microsoft Excel, Power BI,
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
