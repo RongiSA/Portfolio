@@ -1,4 +1,4 @@
-# Workforce Specialist
+# Real Time Analyst / Workforce Specialist
 
 #### Technical Skills: Microsoft Excel, Power BI,
 
@@ -26,21 +26,21 @@ at Offshore Business Processing "OBP" Comp.
 - Collaborate with Supervisors to manage attendance and behavioral matters
 - Create daily/weekly/monthly reports and undertake intraday reporting & other PBI operations for data analysis and reporting
 
-**Sitel Philippines Inc. 
+**SITEL Philippines Inc. 
 (_January - April 2018_)**
 - Customer Service Representative (Seasonal account)
 - Specialize in handling inbound voice calls for US clients.
 - Resolving issues, and providing exceptional support while ensuring a positive customer experience.
 
-**Tech Mahindra
-(_September - Dec 2017_)****
+**TECH MAHINDRA.
+(_September - Dec 2017_)**
 Customer Service Representative (Seasonal account) Sep-Dec 2017
 - Specialize in handling inbound voice calls for US online retail clients.
-
 
 
 ## Ceretifications & Trainings
 - Microsoft Office Specialist: Excel Associate Certification Training Program. February 10,2025
 - Business Intelligence with Power BI End to End Solutions with capstone projects. April 2024
 - Real Time Analyst Boothcamp. June 2019
+- Extract , Transform and Load Data: | Data Entry
 - [DataSense Analytics YouTube](https://www.youtube.com/@DataSensePh)
