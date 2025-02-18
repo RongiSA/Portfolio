@@ -38,6 +38,10 @@ Customer Service Representative (Seasonal account) Sep-Dec 2017
 - Specialize in handling inbound voice calls for US online retail clients.
 
 
+## Skills
+Microsoft Office, Communication skills, Computer literacy, Microsoft Excel, Microsoft Outlook, Bilingual, English,Tagalog 
+
+
 ## Ceretifications & Trainings
 - Microsoft Office Specialist: Excel Associate Certification Training Program. February 10,2025
 - Business Intelligence with Power BI End to End Solutions with capstone projects. April 2024
